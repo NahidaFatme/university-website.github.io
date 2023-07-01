@@ -111,13 +111,13 @@
         
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
         
-        <a href="index.php">
+        <a href="index.html">
             <img src="../image/bubtwebsitelogo.png" height="75px" width="280px"alt="BUBT Logo" />
         </a>
         
         <ul class="navbar-nav me-auto ml-auto font-weight-bold align-items-right justify-content-end"> 
             <li class="nav-item">
-            <a class="nav-link" style="color: #38B6FF;" href="index.php">Home</a>
+            <a class="nav-link" style="color: #38B6FF;" href="index.html">Home</a>
             </li>
             <li class="nav-item">
             <a class="nav-link " style="color: #38B6FF;" href="blog.php">Blog</a>
